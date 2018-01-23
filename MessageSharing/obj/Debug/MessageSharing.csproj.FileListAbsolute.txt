@@ -1,0 +1,3 @@
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\MessageSharing\bin\Debug\MessageSharing.exe.config
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\MessageSharing\bin\Debug\MessageSharing.exe.config
+D:\Development\C#\Visual Studio Projects\Algorithms\MessageSharing\bin\Debug\MessageSharing.exe.config

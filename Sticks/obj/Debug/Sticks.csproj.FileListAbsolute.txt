@@ -1,0 +1,15 @@
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Sticks\bin\Debug\Sticks.exe
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Sticks\bin\Debug\Sticks.pdb
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Sticks\obj\Debug\Sticks.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Sticks\obj\Debug\Sticks.exe
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Sticks\obj\Debug\Sticks.pdb
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Sticks\bin\Debug\Sticks.exe.config
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Sticks\obj\Debug\Sticks.exe
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Sticks\obj\Debug\Sticks.pdb
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Sticks\bin\Debug\Sticks.exe
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Sticks\bin\Debug\Sticks.pdb
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Sticks\obj\Debug\Sticks.csprojResolveAssemblyReference.cache
+D:\Development\C#\Visual Studio Projects\Algorithms\Sticks\bin\Debug\Sticks.exe.config
+D:\Development\C#\Visual Studio Projects\Algorithms\Sticks\obj\Debug\Sticks.exe
+D:\Development\C#\Visual Studio Projects\Algorithms\Sticks\obj\Debug\Sticks.pdb

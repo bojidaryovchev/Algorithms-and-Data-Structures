@@ -1,0 +1,12 @@
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Bridges\bin\Debug\Bridges.exe.config
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Bridges\bin\Debug\Bridges.exe
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Bridges\bin\Debug\Bridges.pdb
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Bridges\obj\Debug\Bridges.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Bridges\obj\Debug\Bridges.exe
+C:\Users\Programmer\Documents\Visual Studio 2013\Projects\Algorithms\Bridges\obj\Debug\Bridges.pdb
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Bridges\bin\Debug\Bridges.exe.config
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Bridges\obj\Debug\Bridges.exe
+D:\Development\VisualStudio Projects\Visual Studio Projects\Algorithms\Bridges\obj\Debug\Bridges.pdb
+D:\Development\C#\Visual Studio Projects\Algorithms\Bridges\bin\Debug\Bridges.exe.config
+D:\Development\C#\Visual Studio Projects\Algorithms\Bridges\obj\Debug\Bridges.exe
+D:\Development\C#\Visual Studio Projects\Algorithms\Bridges\obj\Debug\Bridges.pdb
